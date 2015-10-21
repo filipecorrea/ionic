@@ -1,0 +1,5 @@
+# Operational system created files
+.DS_Store
+
+# Dependency directory
+node_modules
